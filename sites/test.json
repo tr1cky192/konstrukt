@@ -1,0 +1,87 @@
+{
+    "site_id": "test",
+    "settings": {
+        "title": "test",
+        "font_heading": "Outfit",
+        "font_body": "Inter",
+        "color_primary": "#6366f1",
+        "color_secondary": "#06b6d4",
+        "color_bg": "#ffffff",
+        "color_text": "#000000",
+        "color_card_bg": "#f9fafb",
+        "payment_key": "GCTYLW4N2P",
+        "payment_secret": "aNz108zfabCRFBxMKxU9q2TMAJEUmyT9"
+    },
+    "blocks": [
+        {
+            "id": "header_1786540366315",
+            "type": "header",
+            "title": "Шапка",
+            "logo_text": "TEST",
+            "logo_img": "",
+            "nav_links": "",
+            "cta_text": "Купити"
+        },
+        {
+            "id": "hero_1786541580355",
+            "type": "hero",
+            "title": "ПОМИЄМО ГОЛОВУ",
+            "subtitle": "МИТТЯ ГОЛОВИ БЕЗКОШТОВНО",
+            "image": "uploads\/img_6a7c76fc60b8d6.07950471.JPG",
+            "btn_primary_text": "хочу",
+            "btn_secondary_text": "Детальніше"
+        },
+        {
+            "id": "pricing_1786540374407",
+            "type": "pricing",
+            "title": "Миття голови",
+            "subtitle": "миємо голову без затримок",
+            "product_name": "Миття",
+            "price": "399",
+            "currency": "₴",
+            "features": [
+                "Повна підтримка",
+                "Якісний товар",
+                "Безкоштовна доставка"
+            ],
+            "btn_text": "Купити зараз"
+        },
+        {
+            "id": "features_1786543552405",
+            "type": "features",
+            "title": "Чому ми?",
+            "subtitle": "Наші ключові особливості",
+            "items": [
+                {
+                    "icon": "1",
+                    "title": "Швидкість",
+                    "desc": "Працюємо максимально швидко."
+                },
+                {
+                    "icon": "2",
+                    "title": "Якість",
+                    "desc": "Високий рівень сервісу."
+                },
+                {
+                    "icon": "3",
+                    "title": "Безпека",
+                    "desc": "Всі дані зашифровані."
+                }
+            ]
+        },
+        {
+            "id": "footer_1786543261372",
+            "type": "footer",
+            "title": "Підвал",
+            "logo_text": "Компанія",
+            "logo_img": "assets\/logo.svg",
+            "copy_text": "© 2026 Компанія. Всі права захищені."
+        }
+    ],
+    "owner": "user",
+    "updated_at": "2026-08-12T14:06:01+00:00",
+    "stats": {
+        "views": 1,
+        "sales": 0
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "site_id": "default",
+    "settings": {
+        "title": "Мій Лендінг",
+        "font_heading": "Outfit",
+        "font_body": "Inter",
+        "color_primary": "#6366f1",
+        "color_secondary": "#06b6d4",
+        "color_bg": "#ffffff",
+        "color_text": "#1f2937",
+        "color_card_bg": "#f9fafb",
+        "payment_key": "",
+        "payment_secret": ""
+    },
+    "blocks": [],
+    "updated_at": "2026-08-12T09:13:04+00:00",
+    "stats": {
+        "views": 3,
+        "sales": 0
+    },
+    "owner": "admin"
+}
